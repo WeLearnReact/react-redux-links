@@ -150,6 +150,10 @@ While this list is primarily focused on learning React and Redux, and generally 
   http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/  
   An excellent explanation of how function calls and the `this` keyword work
   
+- **Should I use Promises or Async-Await**
+  https://hackernoon.com/should-i-use-promises-or-async-await-126ab5c98789 
+  A deep explanation of how `Promise` works, and when to use `Promise`
+  
 - **When 'not' to use arrow functions**  
  https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/  
   An in-depth look at when you should stick with standard JS functions instead of arrow functions
